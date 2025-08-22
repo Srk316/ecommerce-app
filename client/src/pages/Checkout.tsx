@@ -25,7 +25,27 @@ export default function Checkout() {
         }),
       })
       if (!res.ok) throw new Error(await res.text())
-      const j = await res.json()
+
+      const j = await res.json() // { ok:true, orderId: '...' }
+
+      // Build GA purchase payload using the cart at the time of success
+      const purchasePayload = {
+        transaction_id: j.orderId,
+        currency: 'INR',
+        value: total, // number
+        items: items.map((x) => ({
+          item_id: x.id,
+          item_name: x.product.title,
+          item_category: x.product.category,
+          price: x.product.price,
+          quantity: x.qty,
+        })),
+      }
+
+      // Stash payload so Orders page can emit the GA 'purchase' event after redirect
+      localStorage.setItem('ga_purchase', JSON.stringify(purchasePayload))
+
+      // Clear cart and go to thank-you / orders page
       clear()
       nav('/orders?placed=' + j.orderId)
     } catch (e: any) {
