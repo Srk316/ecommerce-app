@@ -5,6 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ShopStack</title>
   <link rel="icon" href="/favicon.svg">
+
+  <!-- ===== TEMP: GA fallback so we see events for sure ===== -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E1H1XETNSG"></script>
+  <script>
+    // Basic GA4 boot + 1 test event
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    // Send at least 1 page_view automatically
+    gtag('config', 'G-E1H1XETNSG');
+
+    // Fire a visible test event so you can confirm in DebugView
+    gtag('event', 'test_event', { debug_mode: true, source: 'index.html fallback' });
+  </script>
+  <!-- ===== /TEMP ===== -->
 </head>
 <body class="bg-slate-50 text-slate-900">
   <div id="root"></div>
