@@ -1,0 +1,9 @@
+{
+  "name": "shopstack",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev"
+  }
+}

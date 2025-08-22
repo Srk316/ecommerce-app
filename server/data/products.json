@@ -1,0 +1,402 @@
+[
+  {
+    "id": "p001",
+    "title": "Sports Product 1",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 21541.26,
+    "image": "https://picsum.photos/seed/ecom1/800/600",
+    "category": "Sports",
+    "rating": 3.4,
+    "stock": 47
+  },
+  {
+    "id": "p002",
+    "title": "Sports Product 2",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 18257.85,
+    "image": "https://picsum.photos/seed/ecom2/800/600",
+    "category": "Sports",
+    "rating": 3.8,
+    "stock": 53
+  },
+  {
+    "id": "p003",
+    "title": "Home Product 3",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 27738.97,
+    "image": "https://picsum.photos/seed/ecom3/800/600",
+    "category": "Home",
+    "rating": 3.3,
+    "stock": 71
+  },
+  {
+    "id": "p004",
+    "title": "Sports Product 4",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 22396.83,
+    "image": "https://picsum.photos/seed/ecom4/800/600",
+    "category": "Sports",
+    "rating": 3.6,
+    "stock": 54
+  },
+  {
+    "id": "p005",
+    "title": "Electronics Product 5",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 42564.92,
+    "image": "https://picsum.photos/seed/ecom5/800/600",
+    "category": "Electronics",
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": "p006",
+    "title": "Accessories Product 6",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 19886.91,
+    "image": "https://picsum.photos/seed/ecom6/800/600",
+    "category": "Accessories",
+    "rating": 3.5,
+    "stock": 81
+  },
+  {
+    "id": "p007",
+    "title": "Electronics Product 7",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 16347.87,
+    "image": "https://picsum.photos/seed/ecom7/800/600",
+    "category": "Electronics",
+    "rating": 3.7,
+    "stock": 59
+  },
+  {
+    "id": "p008",
+    "title": "Fashion Product 8",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 14492.91,
+    "image": "https://picsum.photos/seed/ecom8/800/600",
+    "category": "Fashion",
+    "rating": 3.3,
+    "stock": 72
+  },
+  {
+    "id": "p009",
+    "title": "Electronics Product 9",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 38197.32,
+    "image": "https://picsum.photos/seed/ecom9/800/600",
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 87
+  },
+  {
+    "id": "p010",
+    "title": "Fashion Product 10",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 20449.23,
+    "image": "https://picsum.photos/seed/ecom10/800/600",
+    "category": "Fashion",
+    "rating": 3.8,
+    "stock": 13
+  },
+  {
+    "id": "p011",
+    "title": "Sports Product 11",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 15676.17,
+    "image": "https://picsum.photos/seed/ecom11/800/600",
+    "category": "Sports",
+    "rating": 4.4,
+    "stock": 84
+  },
+  {
+    "id": "p012",
+    "title": "Electronics Product 12",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 6354.46,
+    "image": "https://picsum.photos/seed/ecom12/800/600",
+    "category": "Electronics",
+    "rating": 3.2,
+    "stock": 11
+  },
+  {
+    "id": "p013",
+    "title": "Electronics Product 13",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 47522.37,
+    "image": "https://picsum.photos/seed/ecom13/800/600",
+    "category": "Electronics",
+    "rating": 3.6,
+    "stock": 97
+  },
+  {
+    "id": "p014",
+    "title": "Sports Product 14",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 3950.29,
+    "image": "https://picsum.photos/seed/ecom14/800/600",
+    "category": "Sports",
+    "rating": 3.4,
+    "stock": 30
+  },
+  {
+    "id": "p015",
+    "title": "Accessories Product 15",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 47283.18,
+    "image": "https://picsum.photos/seed/ecom15/800/600",
+    "category": "Accessories",
+    "rating": 3.7,
+    "stock": 43
+  },
+  {
+    "id": "p016",
+    "title": "Accessories Product 16",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 46729.25,
+    "image": "https://picsum.photos/seed/ecom16/800/600",
+    "category": "Accessories",
+    "rating": 4.0,
+    "stock": 15
+  },
+  {
+    "id": "p017",
+    "title": "Sports Product 17",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 43018.24,
+    "image": "https://picsum.photos/seed/ecom17/800/600",
+    "category": "Sports",
+    "rating": 3.3,
+    "stock": 62
+  },
+  {
+    "id": "p018",
+    "title": "Home Product 18",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 6871.67,
+    "image": "https://picsum.photos/seed/ecom18/800/600",
+    "category": "Home",
+    "rating": 4.1,
+    "stock": 92
+  },
+  {
+    "id": "p019",
+    "title": "Accessories Product 19",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 20241.53,
+    "image": "https://picsum.photos/seed/ecom19/800/600",
+    "category": "Accessories",
+    "rating": 4.2,
+    "stock": 92
+  },
+  {
+    "id": "p020",
+    "title": "Electronics Product 20",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 25664.14,
+    "image": "https://picsum.photos/seed/ecom20/800/600",
+    "category": "Electronics",
+    "rating": 4.6,
+    "stock": 51
+  },
+  {
+    "id": "p021",
+    "title": "Fashion Product 21",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 20437.92,
+    "image": "https://picsum.photos/seed/ecom21/800/600",
+    "category": "Fashion",
+    "rating": 3.9,
+    "stock": 9
+  },
+  {
+    "id": "p022",
+    "title": "Fashion Product 22",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 29998.16,
+    "image": "https://picsum.photos/seed/ecom22/800/600",
+    "category": "Fashion",
+    "rating": 3.7,
+    "stock": 98
+  },
+  {
+    "id": "p023",
+    "title": "Accessories Product 23",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 9708.57,
+    "image": "https://picsum.photos/seed/ecom23/800/600",
+    "category": "Accessories",
+    "rating": 3.6,
+    "stock": 61
+  },
+  {
+    "id": "p024",
+    "title": "Fashion Product 24",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 26332.34,
+    "image": "https://picsum.photos/seed/ecom24/800/600",
+    "category": "Fashion",
+    "rating": 3.7,
+    "stock": 36
+  },
+  {
+    "id": "p025",
+    "title": "Accessories Product 25",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 35726.52,
+    "image": "https://picsum.photos/seed/ecom25/800/600",
+    "category": "Accessories",
+    "rating": 4.6,
+    "stock": 99
+  },
+  {
+    "id": "p026",
+    "title": "Fashion Product 26",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 23157.36,
+    "image": "https://picsum.photos/seed/ecom26/800/600",
+    "category": "Fashion",
+    "rating": 3.3,
+    "stock": 50
+  },
+  {
+    "id": "p027",
+    "title": "Sports Product 27",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 3605.78,
+    "image": "https://picsum.photos/seed/ecom27/800/600",
+    "category": "Sports",
+    "rating": 4.4,
+    "stock": 72
+  },
+  {
+    "id": "p028",
+    "title": "Accessories Product 28",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 772.95,
+    "image": "https://picsum.photos/seed/ecom28/800/600",
+    "category": "Accessories",
+    "rating": 3.3,
+    "stock": 29
+  },
+  {
+    "id": "p029",
+    "title": "Electronics Product 29",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 46796.57,
+    "image": "https://picsum.photos/seed/ecom29/800/600",
+    "category": "Electronics",
+    "rating": 3.9,
+    "stock": 26
+  },
+  {
+    "id": "p030",
+    "title": "Fashion Product 30",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 30420.19,
+    "image": "https://picsum.photos/seed/ecom30/800/600",
+    "category": "Fashion",
+    "rating": 4.2,
+    "stock": 12
+  },
+  {
+    "id": "p031",
+    "title": "Fashion Product 31",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 44351.87,
+    "image": "https://picsum.photos/seed/ecom31/800/600",
+    "category": "Fashion",
+    "rating": 3.5,
+    "stock": 45
+  },
+  {
+    "id": "p032",
+    "title": "Fashion Product 32",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 3776.91,
+    "image": "https://picsum.photos/seed/ecom32/800/600",
+    "category": "Fashion",
+    "rating": 3.7,
+    "stock": 49
+  },
+  {
+    "id": "p033",
+    "title": "Electronics Product 33",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 22508.82,
+    "image": "https://picsum.photos/seed/ecom33/800/600",
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": 82
+  },
+  {
+    "id": "p034",
+    "title": "Accessories Product 34",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 42529.59,
+    "image": "https://picsum.photos/seed/ecom34/800/600",
+    "category": "Accessories",
+    "rating": 4.1,
+    "stock": 90
+  },
+  {
+    "id": "p035",
+    "title": "Electronics Product 35",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 36669.99,
+    "image": "https://picsum.photos/seed/ecom35/800/600",
+    "category": "Electronics",
+    "rating": 3.7,
+    "stock": 73
+  },
+  {
+    "id": "p036",
+    "title": "Fashion Product 36",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 47190.09,
+    "image": "https://picsum.photos/seed/ecom36/800/600",
+    "category": "Fashion",
+    "rating": 3.9,
+    "stock": 43
+  },
+  {
+    "id": "p037",
+    "title": "Sports Product 37",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 33251.04,
+    "image": "https://picsum.photos/seed/ecom37/800/600",
+    "category": "Sports",
+    "rating": 3.6,
+    "stock": 36
+  },
+  {
+    "id": "p038",
+    "title": "Sports Product 38",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 25400.81,
+    "image": "https://picsum.photos/seed/ecom38/800/600",
+    "category": "Sports",
+    "rating": 3.3,
+    "stock": 93
+  },
+  {
+    "id": "p039",
+    "title": "Sports Product 39",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 40717.73,
+    "image": "https://picsum.photos/seed/ecom39/800/600",
+    "category": "Sports",
+    "rating": 4.1,
+    "stock": 60
+  },
+  {
+    "id": "p040",
+    "title": "Accessories Product 40",
+    "description": "High-quality product with modern design and reliable performance. Perfect for everyday use.\n\nFeatures:\n- Durable build\n- Great value\n- 1-year warranty",
+    "price": 12301.32,
+    "image": "https://picsum.photos/seed/ecom40/800/600",
+    "category": "Accessories",
+    "rating": 4.7,
+    "stock": 55
+  }
+]
