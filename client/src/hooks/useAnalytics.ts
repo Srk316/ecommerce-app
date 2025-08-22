@@ -1,7 +1,7 @@
 // client/src/hooks/useAnalytics.ts
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
-import { initGA, gaPageview } from '../utils/analytics'
+import { initGA, gaPageview } from '../utils/ga'
 
 export default function useAnalytics() {
   const loc = useLocation()

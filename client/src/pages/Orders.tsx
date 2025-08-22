@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { useAuth } from '../context/AuthContext'
 import { Link, useSearchParams } from 'react-router-dom'
 import { api } from '../hooks/api'
-import { gaEvent } from '../utils/analytics'
+import { gaEvent } from '../utils/ga'
 
 type Order = { id: string; total: number; createdAt: string }
 

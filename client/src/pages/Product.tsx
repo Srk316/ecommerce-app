@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom'
 import { api } from '../hooks/api'
 import { Product as ProductType } from '../types'
 import { useCart } from '../context/CartContext'
-import { gaEvent } from '../utils/analytics'
+import { gaEvent } from '../utils/ga'
 
 function ProductPage() {
   const { id } = useParams()
