@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/:path*",
+        "destination": "https://ecommerce-app-kj7j.onrender.com "
+      }
+    ]
+  }
+  
