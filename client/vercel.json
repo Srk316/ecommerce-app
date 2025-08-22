@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/api/:path*",
-        "destination": "https://ecommerce-app-kj7j.onrender.com "
+        "destination": "https://ecommerce-app-kj7j.onrender.com/api/:path*"
       }
     ]
   }
