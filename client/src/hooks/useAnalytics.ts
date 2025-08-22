@@ -1,4 +1,3 @@
-// client/src/hooks/useAnalytics.ts
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
 import { initGA, gaPageview } from '../utils/ga'
@@ -13,7 +12,7 @@ export default function useAnalytics() {
     initGA(id)
   }, [])
 
-  // page views on route changes
+  // fire SPA page views (kept even though send_page_view:true above)
   useEffect(() => {
     gaPageview(loc.pathname + loc.search)
   }, [loc.pathname, loc.search])
